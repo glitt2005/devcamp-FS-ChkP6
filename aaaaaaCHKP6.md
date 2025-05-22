@@ -283,13 +283,7 @@ Las <font color=blue><strong>API</font></strong> también rigen cómo se **permi
 
 
 
-![APIURLimg](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\APIURLimg.png)
 
-![imgblurreddata](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\APIURLimg.png)  <br>
-  <br>
- <br>
-  <br>
-   <img src="postmanimg3.png" width="820">
 
 <br>
 
