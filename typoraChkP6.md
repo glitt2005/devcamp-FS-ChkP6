@@ -184,7 +184,7 @@ Y aquí los tenemos en ***Postman*** (explicaremos mejor ***Postman*** en el **p
 
 
 
-<img src="postmanImage.png" width="800">
+<img src="prueba.png" width="800">
 <br>
 <br>
 <br>
