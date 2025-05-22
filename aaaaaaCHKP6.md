@@ -603,16 +603,14 @@ Tienen que ver con la forma en la que Python trabaja con métodos PRIVADOS y PRO
     
         class Invoice:
           def __str__(self):
-            return "This is the invoice class!"
-
-
-​        
+            return "This is the invoice class!"​        
 ​        inv = Invoice()     #instanciando.
 ​        print(str(inv))     #str() busca la definición del método __str__ 
 ​                            #concretamente, lo que devuelve (return)
 ​                            #(ayuda a tener visibilidad a lo que sea 
 ​                            # que hayas instanciado (en línea anterior)
 
+<br>
 
     Nota: str() Te proporciona la información sobre lo que la clase retorna. Normalmente se utiliza para propósitos de DEBUGGING, para que me muestre todo lo que contiene esa CLASE y mirar qué errores tiene (muestra atributos de datos).
 
@@ -630,14 +628,13 @@ Tienen que ver con la forma en la que Python trabaja con métodos PRIVADOS y PRO
         
           def __repr__(self):
             return f"Invoice({self.client}, {self.total})"
-    
-    
-    ​    
+            ​    
     ​    inv = Invoice('Google', 500)
     ​    print(str(inv))
     ​    print(repr(inv))
 
 
+<br>
 
     Nota:  Si no se define un método <font size= 4><span style = "color:blue"><strong> \_\_str__ </strong></span></font>() para una clase, entonces la implementación del objeto incorporado llama al método <font size= 4><span style = "color:blue"><strong> \_\_repr__ </strong></span></font>() en su lugar.
     
