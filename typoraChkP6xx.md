@@ -697,7 +697,11 @@ Cuando hacemos codificación no solo programamos, también tiene importancia la 
 
 
 En cuanto a los tipos de atributos en relación a su grado de protección, podemos encontrar información muy útil y explicativa en esta página web: [https://medium.com/@jorge.cespedes.tapia/encapsulamiento-en-la-programaci%C3%B3n-orientada-a-objetos-poo-en-python-3ba757a93d17](https://medium.com/@jorge.cespedes.tapia/encapsulamiento-en-la-programaci%C3%B3n-orientada-a-objetos-poo-en-python-3ba757a93d17)
+
 <br>
+<br>
+<br>
+
 
 
 * <strong><font color= "darkred">UN GUION BAJO (<font size= 4><span style = "color:blue"><strong> \_ </strong></span></font>)   : ATRIBUTO PROTEGIDO</strong> </font>
