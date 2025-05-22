@@ -176,9 +176,11 @@ Y aquí los tenemos en ***Postman*** (explicaremos mejor ***Postman*** en el **p
 
 - <font color =blue><strong><font size="4.5">MongoDB</font></font></strong> es una base de datos <font color =blue><strong><font size="4.5">NoSQL</font></font></strong> que utiliza un modelo flexible y orientado a documentos. Se basa en el teorema **CAP**, priorizando la ***disponibilidad y tolerancia*** a la partición. Almacena datos en documentos <font color =darkred><strong>JSON</strong> (JavaScript Object Notation)</font> o <font color =darkred><strong>BSON</strong> (Binary JSON)</font> dentro de colecciones, lo que ofrece **flexibilidad para modificar** el esquema de los datos. 
 
-- Una base de datos <font color =blue><strong><font size="4.5">SQL</font></font></strong> es **relacional** y organiza los datos en tablas con **esquemas predefinidos**. Es decir, almacena datos en tablas estructuradas con filas y columnas, donde cada tabla tiene una relación definida con otras tablas. Las propiedades **ACID** son cruciales para garantizar que las transacciones en bases de datos sean **correctas, fiables y que los datos se mantengan íntegros**. Son esenciales para sistemas que manejan <font color =blue>datos sensibles, como transacciones bancarias o sistemas de gestión de información crítica</font>.  
+- Una base de datos <font color =blue><strong><font size="4.5">SQL</font></font></strong> es **relacional** y organiza los datos en tablas con **esquemas predefinidos**. Es decir, almacena datos en tablas estructuradas con filas y columnas, donde cada tabla tiene una relación definida con otras tablas. Las propiedades **ACID** son cruciales para garantizar que las transacciones en bases de datos sean **correctas, fiables y que los datos se mantengan íntegros**. Son esenciales para sistemas que manejan <font color =blue>datos sensibles, como transacciones bancarias o sistemas de gestión de información crítica</font>.
+<br>
 
-![](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\APIURLimg.png)
+
+![](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\pregunta4foto.png)
 
 
 
