@@ -708,7 +708,10 @@ Las clases tienen acceso a clases superiores (p.ej. self.atributo1 = atributo1; 
 
 * <strong><font color= "darkred">DOS GUIONES BAJOS (<font size= 4><span style = "color:blue"><strong> \_\_ </strong></span></font>)   : ATRIBUTO PRIVADO</strong> </font>
 <br>
-Si tenemos un atributo (de datos) que solo debería ser accedido dentro solo de la clase, SUBCLASES NO ACCEDEN, esto se llama ATRIBUTO PRIVADO, y la CONVENCIÓN común para este caso es utilizar DOS GUONES BAJOS (<font size= 4><span style = "color:blue"><strong> \_\_ </strong></span></font>)  delante del nombre de la variable. Python "envía" el nombre del atributo, modificándolo internamente para que sea más difícil acceder a él desde fuera de la clase.
+Si tenemos un atributo (de datos) que solo debería ser accedido dentro solo de la clase, SUBCLASES NO ACCEDEN, esto se llama ATRIBUTO PRIVADO, y la CONVENCIÓN común para este caso es utilizar DOS GUONES BAJOS (<font size= 4><span style = "color:blue"><strong> __ </strong></span></font>)  delante del nombre de la variable. Python "envía" el nombre del atributo, modificándolo internamente para que sea más difícil acceder a él desde fuera de la clase.
+
+<br>
+
 
 **En resumen**:
 
