@@ -287,7 +287,17 @@ Las <font color=blue><strong>API</font></strong> también rigen cómo se **permi
 
 ![imgblurreddata](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\APIURLimg.png)  <br>
   <br>
+ <br>
+  <br>
+   <img src="postmanimg3.png" width="820">
 
+<br>
+
+ <br>
+  <br>
+   <img src="APIURLimg.png" width="820">
+
+<br>
 
   Sin embargo, podemos optimizar la comunicación con la <font color=blue><strong>API</font></strong> y así poder obtener estos datos y traerlos a la pantalla de una forma que sea **más fácil de entender y manejar**:
 
