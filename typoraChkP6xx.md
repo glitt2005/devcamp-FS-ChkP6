@@ -697,12 +697,12 @@ Cuando hacemos codificación no solo programamos, también tiene importancia la 
 
 
 En cuanto a los tipos de atributos en relación a su grado de protección, podemos encontrar información muy útil y explicativa en esta página web: [https://medium.com/@jorge.cespedes.tapia/encapsulamiento-en-la-programaci%C3%B3n-orientada-a-objetos-poo-en-python-3ba757a93d17](https://medium.com/@jorge.cespedes.tapia/encapsulamiento-en-la-programaci%C3%B3n-orientada-a-objetos-poo-en-python-3ba757a93d17)
+<br>
+
 
 * <strong><font color= "darkred">UN GUION BAJO (<font size= 4><span style = "color:blue"><strong> \_ </strong></span></font>)   : ATRIBUTO PROTEGIDO</strong> </font>
 <br>
-Las **clases tienen acceso a clases superiores** (*p.ej. self.atributo1 = atributo1; self.atributo2 = atributo2*). Los datos, pues son accesibles DENTRO DE LA CLASE y SUBCLASES. Para permitir esto, debemos poner un guion bajo (_) delante del elemento o argumento a proteger (Variable de uso interno)
-
-    Este guion bajo no es ninguna sintaxis especial, es una CONVENCIÓN que facilita a futuros desarrolladores o al creador/a del programa para mostrar que este atributo debe protegerse.  Los GUIONES BAJOS en Python son una herramienta para la legibilidad y la comunicación entre programadores, más que para una restricción de acceso rígida.
+Las **clases tienen acceso a clases superiores** (*p.ej. self.atributo1 = atributo1; self.atributo2 = atributo2*). Los datos, pues son accesibles DENTRO DE LA CLASE y SUBCLASES. Para permitir esto, debemos poner un guion bajo (_) delante del elemento o argumento a proteger (Variable de uso interno). Este guion bajo no es ninguna sintaxis especial, es una CONVENCIÓN que facilita a futuros desarrolladores o al creador/a del programa para mostrar que este atributo debe protegerse.  Los GUIONES BAJOS en Python son una herramienta para la legibilidad y la comunicación entre programadores, más que para una restricción de acceso rígida.
 
 * <strong><font color= "darkred">DOS GUIONES BAJOS (<font size= 4><span style = "color:blue"><strong> \_\_ </strong></span></font>)   : ATRIBUTO PRIVADO</strong> </font>
 <br>
