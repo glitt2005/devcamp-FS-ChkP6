@@ -185,7 +185,13 @@ Y aquí los tenemos en ***Postman*** (explicaremos mejor ***Postman*** en el **p
 
 ![imgMongoSQL](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\pregunta4foto.png)
 
+<br>
+<br>
 
+
+<img src="pregunta4foto" width="820">
+<br>
+<br>
 
 
 
