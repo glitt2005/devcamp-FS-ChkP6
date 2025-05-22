@@ -183,7 +183,7 @@ Y aquí los tenemos en ***Postman*** (explicaremos mejor ***Postman*** en el **p
 
 <br>
 
-![imgMongoSQL](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\pregunta4foto.png)
+![imgMongoSQL](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\prueba.png)
 
 <br>
 <br>
