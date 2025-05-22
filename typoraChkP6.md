@@ -180,7 +180,14 @@ Y aquí los tenemos en ***Postman*** (explicaremos mejor ***Postman*** en el **p
 - Una base de datos <font color =blue><strong><font size="4.5">SQL</font></font></strong> es **relacional** y organiza los datos en tablas con **esquemas predefinidos**. Es decir, almacena datos en tablas estructuradas con filas y columnas, donde cada tabla tiene una relación definida con otras tablas. Las propiedades **ACID** son cruciales para garantizar que las transacciones en bases de datos sean **correctas, fiables y que los datos se mantengan íntegros**. Son esenciales para sistemas que manejan <font color =blue>datos sensibles, como transacciones bancarias o sistemas de gestión de información crítica</font>.  
 
 
+<br>
 
+
+
+<img src="postmanImage.png" width="800">
+<br>
+<br>
+<br>
 <br>
 
 ![imgMongoSQL](C:\Users\susi2\CURSO-devcamp-FS-2025\checkPoint6\prueba.png)
